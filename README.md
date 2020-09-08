@@ -12,7 +12,7 @@ open-air or closed-air headphones. These are similar to the “optical see-throu
 
 ![3d audio](https://user-images.githubusercontent.com/56169161/92506112-90029e80-f1ca-11ea-995d-31459d80a74e.png)
 
-## How it Works
+## How it Works?
 It is quite difficult to present 3-D sounds to multiple users in an MR space using the transaural method. Consequently, in this study, the binaural method was preferred for 
 presenting a 3-D sound field to each subject. When thinking about an auditory mixture of real and virtual worlds, two methods are possible similar to that applicable to a visual
 mixture.The “physical mixing” in the below figure can be experienced using open-air headphones. Here, artificial sounds through the headphones, either pre-recorded or synthesized,
