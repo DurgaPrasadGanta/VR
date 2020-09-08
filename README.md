@@ -21,3 +21,13 @@ visual sense.
 
 ![audio](https://user-images.githubusercontent.com/56169161/92507450-9c87f680-f1cc-11ea-8853-b739c31350a0.PNG)
 
+
+“Electronic mixing,” as shown above, can be achieved using closed-air headphones. Natural sounds in the real world are gathered by a pair of microphones attached to the outside of
+the headphones and then mixed with the artificial sound using a computer. The resultant mixed sound reaches the user through closed-air headphones. This auditory mixing method
+corresponds to the video see-through method.  
+
+### Experiment and results
+The real and artificial sounds were set as a static sound source. The test subjects heard both sounds simultaneously and answered questions based on sound source localization
+and sound quality. The sound quality evaluation used a subjective appraisal scheme based on five-levels, from 1 (bad) to 5 (excellent). For artificial sound, a helicopter
+propeller’s sound was chosen. The real sound (classical music) was provided by one of three speakers surrounding the subject. 
+
