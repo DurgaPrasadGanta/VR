@@ -8,7 +8,7 @@ visual MR in the form of stage effects. More recently, some AR/MR systems have b
 VR to visual MR. 
 This paper implements the development of an MR system using both audio and visual senses. The users of generally wear a see-through head-mounted display (HMD) to experience the MR
 space. In addition, the combined sound for is not presented from speakers but from headphones; there are two possible ways to hear the combination of real and artificial sounds—
-open-air or closed-air headphones. These are similar to the “optical see-through” and “video seethrough” methods employed in visual MR.
+open-air or closed-air headphones. These are similar to the “optical see-through” and “video see-through” methods employed in visual MR.
 
 ![3d audio](https://user-images.githubusercontent.com/56169161/92506112-90029e80-f1ca-11ea-995d-31459d80a74e.png)
 
