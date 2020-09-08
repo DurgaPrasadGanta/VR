@@ -1,7 +1,7 @@
 # Virtual Reality_MR that Merges real and Virtual worlds
 
 ## Overview
-Augmented reality (AR) and Mixed (MR) are significant extensions of the conventional virtual reality (VR) that handle virtual environments constructed by a computer. Originally, VR was
+Augmented reality (AR) and Mixed Reality(MR) are significant extensions of the conventional virtual reality (VR) that handle virtual environments constructed by a computer. Originally, VR was
 advocated to treat various types of sensory information such as visual, auditory, tactile, and olfactory senses. Auditory VR was achieved by generating a 3-D sound field. On the
 other hand, most of the earlier AR/MR systems were primarily designed to cover a visual mixture of real and virtual worlds. Sometimes audio and tactile sensations are added to
 visual MR in the form of stage effects. More recently, some AR/MR systems have been developed, which also incorporates 3-D sound. However, all these systems simply added auditory
