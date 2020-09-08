@@ -31,3 +31,5 @@ The real and artificial sounds were set as a static sound source. The test subje
 and sound quality. The sound quality evaluation used a subjective appraisal scheme based on five-levels, from 1 (bad) to 5 (excellent). For artificial sound, a helicopter
 propeller’s sound was chosen. The real sound (classical music) was provided by one of three speakers surrounding the subject. 
 
+
+
