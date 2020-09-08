@@ -32,6 +32,9 @@ and sound quality. The sound quality evaluation used a subjective appraisal sche
 propeller’s sound was chosen. The real sound (classical music) was provided by one of three speakers surrounding the subject. 
 
 ## Strengths and Weakness
+The introduction of audio into a Mixed Reality environment will provide the user with life-like perspective, depth and atmosphere to direct and immerse them within their virtual
+experience.
+
 Duplication in hearing the voice, which is directly transmitted through the subject’s body, as well as via the headphones.
 
 Uncomfortable feelings associated with the negative effects of rustling sounds from the headphones and the microphones
