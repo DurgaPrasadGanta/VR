@@ -1,4 +1,4 @@
-# VR
+# Virtual Reality_MR that Merges real and Virtual worlds
 
 ## Overview
 Augmented reality (AR) and MR are significant extensions of the conventional virtual reality (VR) that handle virtual environments constructed by a computer. Originally, VR was
