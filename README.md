@@ -36,6 +36,8 @@ Duplication in hearing the voice, which is directly transmitted through the subj
 
 Uncomfortable feelings associated with the negative effects of rustling sounds from the headphones and the microphones
 
-
-
-
+## Conclusion
+This paper, describes the development of a system that can simultaneously and consistently manage both visual and auditory MR, in real time. In order to achieve an auditory MR
+display, there are two alternatives—the physical mixing method using open-air headphones and electronic mixing method using closed-air headphones. Initially, it was assumed that 
+the electronic mixing method would be as appropriate as the video see-through method is in visual MR. However, during the experiments, it was found that open-air headphones are
+superior to closed-air headphones. Hence, it was  decided to use the physical mixing method in the development of, namely, the two-by-two audio–visual MR system.
